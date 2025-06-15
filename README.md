@@ -103,19 +103,6 @@ This project is a **fully responsive Dental Clinic Management System** built wit
 
 ---
 
-## 📆 Agile Methodology
-
-- **Team Size:** 6 Members
-- **Roles:**
-  - Scrum Master
-  - Product Owner
-  - QA
-  - Developers (all members share implementation responsibilities)
-- **Daily Stand-ups:** Discuss progress, blockers, and plan next steps.
-- **Tools Used:** Trello for task management, GitHub for collaboration.
-
----
-
 ## ✅ Deliverables
 
 - 🎨 [Wireframes & Mockups](#) (Add Figma or design tool link here)
